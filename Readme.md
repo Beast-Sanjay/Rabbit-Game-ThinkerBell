@@ -25,8 +25,10 @@ To play the game, follow these instructions:
    ```
 
 4. **Run the Game**: Start the game by running the Python script:
-<code>
-   python Game.py</code>
+	```
+	python Game.py
+	```
+ 
 
 5. **Game Controls**:
    - Use `w`, `a`, `s`, and `d` keys to move the rabbit (up, left, down, right).
