@@ -53,7 +53,10 @@ You can find the complete source code for this game on GitHub:
 
 ## Results
 
-![screenshot1](https://github.com/Beast-Sanjay/Rabbit-Game-ThinkerBell/blob/main/Screenshot2.png?raw=true)
+![screenshot1](https://github.com/Beast-Sanjay/Rabbit-Game-ThinkerBell/blob/main/screenshot1.png?raw=true)
+![screenshot2](https://github.com/Beast-Sanjay/Rabbit-Game-ThinkerBell/blob/main/Screenshot2.png?raw=true)
+![screenshot3](https://github.com/Beast-Sanjay/Rabbit-Game-ThinkerBell/blob/main/Screenshot3.png?raw=true)
+![screenshot4](https://github.com/Beast-Sanjay/Rabbit-Game-ThinkerBell/blob/main/Screenshot4.png?raw=true)
 
 Feel free to contribute to the game or report issues on the GitHub repository.
 
